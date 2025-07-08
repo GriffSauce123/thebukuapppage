@@ -41,9 +41,9 @@ body {
 
 h1 {
     font-family: var(--font-heading);
-    font-weight: 400;
+    font-weight: 500;
     font-size: 4rem;
-    letter-spacing: 0.05em;
+    letter-spacing: -3px;
     text-transform: uppercase;
     margin-bottom: 0.75rem;
 }
