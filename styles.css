@@ -43,7 +43,7 @@ h1 {
     font-family: var(--font-heading);
     font-weight: 500;
     font-size: 4rem;
-    letter-spacing: -3px;
+    letter-spacing: -5px;
     text-transform: uppercase;
     margin-bottom: 0.75rem;
 }
