@@ -65,8 +65,9 @@ h1 {
 }
 
 .app-store {
-    font-size: 1.5rem;
-    padding: 2rem;
+    display: block;
+    height: 67px;
+    margin: 3rem;
 }
 
 .pillars,
@@ -82,7 +83,7 @@ h1 {
     gap: 1rem;
 }
 
-.pillars a {
+.pillars p {
     font-family: var(--font-heading);
     font-weight: 400;
     text-transform: uppercase;
